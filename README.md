@@ -10,7 +10,7 @@ This repository tracks my progress through daily challenges. Each solution inclu
 
 ## Tech Stack
 - [Python](www,github.com/ClarinAntto/fcc-daily-challenges/Python)
--  [JavaScript](www.github.com/ClarinAntto/fcc-daily-challenges/JavaScript)
+-  [JavaScript](www.github.com/ClarinAntto/fcc-daily-challenges/javascript)
 
 ## Run Locally
 1. Clone the repo:
