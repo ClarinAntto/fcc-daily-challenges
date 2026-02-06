@@ -1,3 +1,5 @@
+#02-02-2026 | 02-02-2026
+
 def groundhog_day_prediction(appearance):
     if(appearance == True):
         return "Looks like we'll have six more weeks of winter."
