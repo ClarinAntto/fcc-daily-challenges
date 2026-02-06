@@ -1,3 +1,5 @@
+#31-01-2026 | 31-01-2026
+
 def get_sign(date_str):
     
     parts = date_str.split('-')
